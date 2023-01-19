@@ -1,5 +1,4 @@
-# Solving_leetcode_problems
-I solving problems about algorithms and data structures
+# Solving_problems_of_algorithms_and_data_structures
 
 Prefile
 OmegaUp: saulin98ch
